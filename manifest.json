@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "Quivr Sync",
+	"name": "Quivr Sync",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Sync your Obsidian notes to Quivr.",
+	"author": "Quivr",
+	"authorUrl": "https://quivr.com",
+	"fundingUrl": "https://quivr.com/pricing",
 	"isDesktopOnly": false
 }
